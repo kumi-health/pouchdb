@@ -24,3 +24,4 @@ tests/integration/utils-bundle.js
 *.heapsnapshot
 /pouchdb-server-install
 !packages/node_modules/pouchdb-adapter-http/*
+!packages/node_modules/pouchdb-replication/*
